@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-(TFS users only) Provide your TFS username and CodePlex password and click  Submit.You can get your TFS username (which is different from your CodePlex username) by clicking Connect on your project's Source Code page.
+Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
